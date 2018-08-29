@@ -1,0 +1,1 @@
+worker2: python3 agri.py
